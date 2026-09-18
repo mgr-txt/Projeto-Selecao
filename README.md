@@ -35,4 +35,17 @@ O candidato é considerado aprovado quando:
 Com Python instalado, execute:
 
 ```bash
-python AtividadeSeleção.py
+
+python Atividadeselecao.py
+```
+## Desafios adicionais
+
+Além da atividade principal, foram implementados os seguintes desafios:
+
+- Validação básica do e-mail;
+- Impedir pontuação para turno inválido;
+- Mostrar a quantidade de conhecimentos compatíveis;
+- Apresentar os motivos da reprovação;
+- Criar um código de inscrição;
+- Aceitar conhecimentos com letras maiúsculas e espaços extras;
+- Selo "Candidato Destaque" para pontuação igual ou superior a 12.
